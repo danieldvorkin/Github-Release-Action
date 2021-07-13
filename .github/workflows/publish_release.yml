@@ -15,4 +15,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
       with:
-        args: ${{ github.sha }}
+        args: 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
